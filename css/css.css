@@ -1,0 +1,45 @@
+iframe{
+    height: 500px;
+}
+
+.fold{
+    width: 500px;
+}
+
+.folder{
+    height: 100vh;
+}
+
+.complete{
+    height: 100vh;
+}
+
+.names{
+    height: 100vh;
+    background: #000000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+.names div h1{
+    font-size: 120px;
+}
+
+.navegacion{
+    width: 100%;
+    position: fixed;
+}
+
+.about{
+    padding-top: 7%;
+}
+
+.person div img{
+    width: 300px;
+}
